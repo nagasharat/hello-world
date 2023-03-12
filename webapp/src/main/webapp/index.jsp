@@ -1,10 +1,10 @@
 <Html>  
 <head>   
 <title>  
-Registration Page  
+Registration form
 </title>  
 </head>  
-<body bgcolor="Lightskyblue">  
+<body bgcolor="yellow">  
 <br>  
 <br>  
 <form>  
@@ -50,7 +50,7 @@ Address
 <textarea cols="80" rows="5" value="address">  
 </textarea>  
 <br> <br>  
-Email:  
+Email address:  
 <input type="email" id="email" name="email"/> <br>    
 <br> <br>  
 Password:  

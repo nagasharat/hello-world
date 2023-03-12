@@ -1,7 +1,7 @@
 <Html>  
 <head>   
 <title>  
-Registration form
+Registration form for admission
 </title>  
 </head>  
 <body bgcolor="yellow">  

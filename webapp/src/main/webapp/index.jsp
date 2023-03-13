@@ -10,11 +10,11 @@ Registration form for admission
 <form>  
   
 <label> Firstname </label>         
-<input type="text" name="firstname" size="15"/> <br> <br>  
+<input type="text" name="first" size="15"/> <br> <br>  
 <label> Middlename: </label>     
-<input type="text" name="middlename" size="15"/> <br> <br>  
+<input type="text" name="middle" size="15"/> <br> <br>  
 <label> Lastname: </label>         
-<input type="text" name="lastname" size="15"/> <br> <br>  
+<input type="text" name="last" size="15"/> <br> <br>  
   
 <label>   
 Course :  

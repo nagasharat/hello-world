@@ -15,8 +15,10 @@ Registration form for admission
 <input type="text" name="middle" size="15"/> <br> <br>  
 <label> Lastname: </label>         
 <input type="text" name="last" size="15"/> <br> <br>  
-  
-<label>   
+ <label> e-mail address: </label>
+<input type="text" name="last" size="15"/> <br> <br>
+<label> moblie number: </label>
+<input type="number" name="last" size="10"/> <br> <br>
 Course :  
 </label>   
 <select>  
